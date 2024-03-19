@@ -4,7 +4,7 @@ Em busca de se superar todos os dias!!
 
 Linguagens que tenho facilidade em desenvolver (´Python - C#')
 
-- 👨🏻‍🎓 Estudante de Ciência da Computação em Universidade Paulista (UNIP).
+- 👨🏻‍🎓 Estudante de Ciência da Computação em Universidade Paulista (UNIP - formação prevista dez/2024).
 - ❤️ **Apaixonado** por programação!
 - ✉️ Atualmente na busca para entrar no mercado de IT novamente, voltado para Dev...
 ------------------------------------------------------------------------------------------------------------------------------------
