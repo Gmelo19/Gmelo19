@@ -1,16 +1,17 @@
-### Hi there 👋
+### Gustavo Melo aqui!! 
 
-<!--
-**Gmelo19/Gmelo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em busca de se superar todos os dias!! 
 
-Here are some ideas to get you started:
+Linguagens que tenho facilidade em desenvolver (´Python - C#')
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍🎓 Estudante de Ciência da Computação em Universidade Paulista (UNIP).
+- ❤️ **Apaixonado** por programação!
+- ✉️ Atualmente na busca para entrar no mercado de IT novamente, voltado para Dev...
+------------------------------------------------------------------------------------------------------------------------------------
+**Linguagens que tenho familiaridade**
+
+ <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
+**IDEs utilizadas**
+
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />    <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
