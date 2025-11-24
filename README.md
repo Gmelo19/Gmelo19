@@ -1,75 +1,92 @@
-👋 Olá! Eu sou o Gustavo Melo
+<!-- Banner ou saudação -->
+<h1 align="center">👋 Olá! Eu sou o <strong>Gustavo Melo</strong></h1>
+<h3 align="center">Desenvolvedor Backend • Python • SQL • APIs</h3>
 
-Desenvolvedor Backend com foco em Python
-Formado em Ciência da Computação | Construtor de projetos reais
+---
 
-🚀 Sobre mim
+<!-- Badges principais -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-Sou bacharel em Ciência da Computação e atualmente desenvolvo projetos focados em backend com Python, automações, lógica, manipulação de dados e boas práticas de código.
-Tenho experiência profissional com processos críticos, documentação técnica e análise de dados — habilidades que hoje aplico no desenvolvimento de soluções backend.
+---
 
-🧰 Tecnologias que utilizo
-Linguagens
+## 🚀 Sobre mim
 
-🐍 Python
+Sou bacharel em Ciência da Computação e atualmente desenvolvo projetos focados em **backend com Python**, automações, lógica, manipulação de dados e boas práticas de código.  
+Tenho experiência com processos críticos, documentação técnica e análise de dados — habilidades que aplico no desenvolvimento de soluções backend.
 
-☕ Java (básico)
+---
 
-🧠 SQL (MySQL / PostgreSQL)
+## 🧰 Tecnologias
 
-Ferramentas / Tecnologias
+### **Linguagens**
+- 🐍 Python  
+- ☕ Java (básico)  
+- 🧠 SQL (MySQL / PostgreSQL)
 
-Git & GitHub
+### **Ferramentas**
+- Git e GitHub  
+- SQLite  
+- Power BI  
+- Azure Data Factory (iniciante)  
+- PySpark (iniciante)
 
-SQLite
+### **IDE**
+- Visual Studio Code
 
-Power BI
+---
 
-Azure Data Factory (iniciante)
+## 📚 Projetos em Destaque
 
-PySpark (iniciante)
+### 🚖 **Calculadora de Taxas de Táxi (Python)**
+📌 *Projeto em desenvolvimento*  
+- Cálculo de tarifas reais  
+- Interface feita com **Tkinter**  
+- Código modular  
+- Tratamento de erros  
+- **Melhoria futura:** criar versão API (FastAPI)
 
-IDE
+---
 
-VS Code
+### ✔️ **Gerenciador de Tarefas (Python)**
+- CRUD completo  
+- Módulos organizados  
+- Persistência de dados  
+- Estrutura clara e objetiva  
 
-📚 Projetos em Destaque
-🚖 Calculadora de Taxas de Táxi (Python)
+---
 
-📌 Projeto em desenvolvimento
+## 🎯 Focando em aprender agora
+- APIs com FastAPI  
+- Testes com Pytest  
+- Clean Code  
+- SQL avançado  
+- Arquitetura de backend  
 
-Cálculo de tarifas (bandeira, valores, distância etc.)
+---
 
-Interface construída com Tkinter
+## 📊 Estatísticas do GitHub
 
-Organização modular do código
+<div align="center">
+  
+  <!-- Gráfico geral -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gmelo19&show_icons=true&theme=tokyonight&count_private=true"/>
 
-Tratamento de erros
+  <!-- Linguagens mais usadas -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmelo19&layout=compact&theme=tokyonight"/>
+</div>
 
-Próxima melhoria planejada: adicionar versão API com FastAPI
+---
 
-✔️ Gerenciador de Tarefas (Python)
+## 📩 Contato
+📧 **gustavoortiz0000@gmail.com**  
+📞 **(11) 96604-7014**  
+🔗 **LinkedIn:** linkedin.com/in/gustavo-melo-270a7217a
 
-CRUD completo
+---
 
-Organização com funções e módulos
-
-Persistência de dados (arquivo ou banco)
-
-Estrutura simples e funcional
-
-🎯 O que estou aprendendo agora
-
-Criação de APIs com FastAPI
-
-Testes automatizados (pytest)
-
-Clean Code
-
-Estrutura de projetos backend
-
-SQL avançado
-
-📩 Contato
-
-📧 gustavoortiz0000@gmail.com
+<h3 align="center">✨ Obrigado por visitar meu GitHub! ✨</h3>
