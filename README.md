@@ -2,7 +2,7 @@
 
 Em busca de se superar todos os dias!! 
 
-Linguagens que tenho facilidade em desenvolver (´Python - C#')
+Linguagem que tenho facilidade em desenvolver (´Python)
 
 - 👨🏻‍🎓 formado em Ciencia da Computação - UNIP.
 - ❤️ **Apaixonado** por programação!
