@@ -10,7 +10,7 @@ Linguagens que tenho facilidade em desenvolver (´Python - C#')
 ------------------------------------------------------------------------------------------------------------------------------------
 **Linguagens que tenho familiaridade**
 
- <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+ <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 **IDEs utilizadas**
 
